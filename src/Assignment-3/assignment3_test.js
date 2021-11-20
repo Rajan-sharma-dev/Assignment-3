@@ -87,4 +87,3 @@
 	  return target.length > 0 ? true : false;
 	}
   })();
-  
